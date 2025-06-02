@@ -1,4 +1,18 @@
-# Read me portrait
+# Portrait Readme
 
-Rename a portait to portrait-main.png for it to be the main portrait
-In the path ../portraits/portrait-main.png
+To set the main portrait, rename your chosen image to:
+
+portrait-main.png
+
+
+and place it in the following path:
+
+../portraits/portrait-main.png
+
+
+If `portrait-main.png` is not available, the system will fall back to:
+
+portrait-default.png
+
+
+Make sure both images are located in the same directory.
